@@ -1,5 +1,5 @@
 # citMinor
-Cit Minor repo
+My Repository
 - Project 1 
 - Project 2
 - Project 3
@@ -16,6 +16,6 @@ Cit Minor repo
 * Lab 6
 * Lab 7
 * Lab 8
-*Lab 9
+* Lab 9
 
 ![image](https://github.com/fodonnel1/citMinor/assets/134100850/ed471b21-c6bb-4f90-b5eb-9b213ba0e7e3)
