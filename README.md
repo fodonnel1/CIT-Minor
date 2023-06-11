@@ -1,12 +1,12 @@
 # citMinor
 My Repository
-- Project 1: Intro to command line Interface
-- Project 2: Executing with Node.js
-- Project 3: Coin Project
-- Project 4: API Work
-- Project 5: Optional Project
-- Project 6: Shape Class
-- Project 7: This
+- Project 1: [Intro to command line Interface](https://fodonnel1.github.io/cit281-project1/)
+- Project 2: [Executing with Node.js](https://fodonnel1.github.io/cit281-project2/)
+- Project 3: [Coin Project](https://fodonnel1.github.io/cit281-project3/)
+- Project 4: [API Work](https://fodonnel1.github.io/cit281-project4/)
+- Project 5: [Optional Project](https://fodonnel1.github.io/cit281-project5/)
+- Project 6: [Shape Class](https://fodonnel1.github.io/cit281-project6/)
+- Project 7: [This](https://fodonnel1.github.io/cit281-project7/)
 
 * Lab 1: [File Install](https://fodonnel1.github.io/cit281-lab1/)
 * Lab 2: [Using CLI Commands](https://fodonnel1.github.io/cit281-lab2/)
