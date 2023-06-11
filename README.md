@@ -9,7 +9,7 @@ My Repository
 - Project 7: This
 
 * Lab 1: [File Install](https://fodonnel1.github.io/cit281-lab1/)
-* Lab 2: Using CLI Commands
+* Lab 2: [Using CLI Commands](https://fodonnel1.github.io/cit281-lab2/)
 * Lab 3: Javascript with Modern Syntax
 * Lab 4: Fastify
 * Lab 5: Postman
