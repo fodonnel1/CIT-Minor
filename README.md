@@ -8,7 +8,7 @@ My Repository
 - Project 6: Shape Class
 - Project 7: This
 
-* Lab 1: File Install
+* Lab 1: [File Install] (https://fodonnel1.github.io/cit281-lab1/)
 * Lab 2: Using CLI Commands
 * Lab 3: Javascript with Modern Syntax
 * Lab 4: Fastify
